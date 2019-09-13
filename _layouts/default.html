@@ -38,10 +38,12 @@
         </section>
 
         <aside id="sidebar">
-          <a href="Home">Home</a>
-          <a href="ChangeLog">Change Log</a>
-          <a href="Contact">Contact</a>
-          <a href="Privacy">Privacy Statement</a>
+          <ul>
+            <li><a href=".">Home</a></li>
+            <li><a href="ChangeLog">Change Log</a></li>
+            <li><a href="Contact">Contact</a></li>
+            <li><a href="Privacy">Privacy Statement</a></li>
+          </ul>
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
