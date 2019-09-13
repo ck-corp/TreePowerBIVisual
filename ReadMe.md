@@ -1,7 +1,7 @@
-# Power BI D3.js Tree
-## D3.js Tree
+# Power BI {{ site.title }}
+## {{ site.title }}
 ![alt text](assets/logo.png "Logo"){:.floatRight}
-The D3.js Tree for Power BI is a tree structure implementation using D3.js. The custom visual provides many configuration options to customise the tree, such as
+The {{ site.title }} for Power BI is a tree structure custom visual that can be used in Power BI report. There are many ways in which the tree visual can be customised the tree, such as
 * vertical/horizonal orientation
 * custom label
 * custom URL
@@ -12,7 +12,7 @@ The D3.js Tree for Power BI is a tree structure implementation using D3.js. The 
 * ...
 
 ## Usage 
-To use D3.js Tree, you need to have a data set which contains "parent id" and "id" in order to establish the parent-child relationship. This will allow the visual to relate parent nodes to their respective child nodes in order to render the tree.
+To use {{ site.title }}, you need to have a data set which contains "parent id" and "id" in order to establish the parent-child relationship. This will allow the visual to relate parent nodes to their respective child nodes in order to render the tree.
 
 In addition, you can optionally provide a measure and up to eight data fields as values. These data fields can then be used to format the label and/or the URL.
 
