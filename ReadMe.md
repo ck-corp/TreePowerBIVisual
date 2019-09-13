@@ -29,4 +29,4 @@ By default, the display text (i.e. the label) is set to {0}, which simply means 
 A sample file can be downloaded [here](sample/D3jsTree.pbix). 
 
 ## Changelog
-See the list of changes [here](ChangeLog.html).
+See the list of changes [here](ChangeLog).
