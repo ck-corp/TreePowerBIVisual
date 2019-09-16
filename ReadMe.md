@@ -26,7 +26,7 @@ By default, the display text (i.e. the label) is set to {0}, which simply means 
 {% include embed.html %}
 
 ## Sample
-A sample file can be downloaded [here](sample/D3jsTree.pbix). 
+A sample file can be downloaded [here](sample/Tree.pbix). 
 
 ## Changelog
 See the list of changes [here](ChangeLog).
