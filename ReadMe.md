@@ -1,4 +1,4 @@
-# Power BI {{ site.title }}
+# User Guide
 ## {{ site.title }}
 ![alt text](assets/logo.png "Logo"){:.floatRight}
 The {{ site.title }} for Power BI is a tree structure custom visual that can be used in Power BI report. There are many ways to customise the tree visual, such as
