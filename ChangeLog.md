@@ -2,7 +2,7 @@
 The page contains a quick summary of the {{ site.title }} versions.
 
 ## v1.0.4 (2019-10-07)
-### 
+### Added
 This is the first release of Tree custom visual into Microsoft AppSource store. The release contains the following features and configuration options:
 - vertical/horizonal orientation
 - custom label
