@@ -1,8 +1,14 @@
 # Change Log
 The page contains a quick summary of the {{ site.title }} versions.
 
+## v1.0.5 (2019-10-28)
+### Fixes
+- Tree moved unexpectedly when expanding or collapsing a node
+### Enhancements
+- Configure user-defined setting through the use of global CSS variables
+
 ## v1.0.4 (2019-10-07)
-### Added
+### Enhancements
 This is the first release of Tree custom visual into Microsoft AppSource store. The release contains the following features and configuration options:
 - vertical/horizonal orientation
 - custom label
