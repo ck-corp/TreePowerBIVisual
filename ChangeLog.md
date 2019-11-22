@@ -1,6 +1,12 @@
 # Change Log
 The page contains a quick summary of the {{ site.title }} versions.
 
+## v1.0.6 (2019-11-??)
+### Fixes
+- Text-anchor set to "middle" if tree is vertically orientated or the option to show label within nodes is selected. Otherwise, set text-anchor to "start"
+### Enhancements
+- Add option to set the size of expand symbol
+
 ## v1.0.5 (2019-10-28)
 ### Fixes
 - Tree moved unexpectedly when expanding or collapsing a node
