@@ -5,7 +5,7 @@ The page contains a quick summary of the {{ site.title }} versions.
 ### Enhancements
 - Add option to conditionally set the node's border colour
 
-## v1.0.6 (2019-11-??)
+## v1.0.6 (2019-11-26)
 ### Fixes
 - Text-anchor set to "middle" if tree is vertically orientated or the option to show label within nodes is selected. Otherwise, set text-anchor to "start"
 ### Enhancements
