@@ -1,7 +1,11 @@
 # Change Log
 The page contains a quick summary of the {{ site.title }} versions.
 
-## v1.0.7 (2019-12-??)
+## Future enhancements
+- Ability to rotate label
+- Optiont to word-wrap label within a node
+
+## v1.0.7 (2019-12-02)
 ### Enhancements
 - Add option to conditionally set the node's border colour
 
