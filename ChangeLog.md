@@ -3,7 +3,16 @@ The page contains a quick summary of the {{ site.title }} versions.
 
 ## Future enhancements
 - Ability to rotate label
-- Optiont to word-wrap label within a node
+- Option to word-wrap label within a node
+- Better way to handle long label (e.g. automatically expand tree depth, truncate label, wrap label, etc.)
+
+## v1.0.8 (2019-12-??)
+### Fixes
+- Fixed the issue where numeric field is not being diplayed in tooltip
+- Addressed various issues for visual certification
+### Enhancements
+- Allowed conditional formatting to be applied using non-numeric value comparison against the Measure
+- Added <> (not equal) as a new condition for conditional formatting
 
 ## v1.0.7 (2019-12-02)
 ### Enhancements
